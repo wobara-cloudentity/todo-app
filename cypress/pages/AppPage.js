@@ -76,7 +76,7 @@ class LoginPage {
     }
 
     static clearPrice() {
-        cy.get(this.priceInputLocator).clear({force: true})
+        cy.get(this.priceInputLocator).clear()
     }
     
     static clearImageUrl() {
