@@ -57,8 +57,10 @@ Now it's:
 See the screenshots.
 
 Here are the duplicate IDs (previous implementation):
+
 ![Duplicate IDs coming from the old implementation](./images/old_ids.png)
 
 Here are the correct IDs (new implementation):
+
 ![Correct ID coming from the new implementation](./images/new_ids.png)
 
